@@ -1,0 +1,20 @@
+# Ignorar archivos compilados de Java
+*.class
+
+# Ignorar archivos swap de editores de texto
+*.swp
+
+# Ignorar archivos del IDE IntelliJ IDEA
+.idea/
+*.iml
+
+# Ignorar archivos de VSCode
+.vscode/
+
+# Ignorar archivos de NetBeans
+nbproject/
+
+# Ignorar archivos de Eclipse
+.project
+.classpath
+.settings/
