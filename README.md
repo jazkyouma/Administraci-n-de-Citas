@@ -9,7 +9,7 @@ REQUISITOS PREVIOS
 PASOS DE INSTALACION 
 
 Descarga del proyecto:
-- Clona el repositorio de GitHub:git clone https://github.com/tu_usuario/nombre_repositorio.git 
+- Clona el repositorio de GitHub: git clone https://github.com/tu_usuario/nombre_repositorio.git 
 
 Compilación:
 - Navega al directorio del proyecto: cd nombre_repositorio
